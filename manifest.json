@@ -1,10 +1,10 @@
 ﻿{
   "Name": "Second Inventory",
   "Author": "venusor",
-  "Version": "0.2.16",
+  "Version": "0.2.17",
   "Description": "Adds a second inventory",
   "UniqueID": "venusor.SecondInventory",
-  "EntryDll": "SDV_SecondInventory.dll",
+  "EntryDll": "SecondInventory.dll",
   "MinimumApiVersion": "3.0.0",
   "UpdateKeys": []
 }

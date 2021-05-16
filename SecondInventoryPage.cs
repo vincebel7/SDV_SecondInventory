@@ -1,8 +1,6 @@
 ﻿using StardewValley.Menus;
-using StardewModdingAPI;
 
-
-namespace SDV_SecondInventory
+namespace SecondInventory
 {
     public class SecondInventoryPage : IClickableMenu
     {

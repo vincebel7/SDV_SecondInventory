@@ -6,7 +6,7 @@ using System.Linq;
 using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 
-namespace SDV_SecondInventory
+namespace SecondInventory
 {
     public class ModEntry : StardewModdingAPI.Mod
     {
